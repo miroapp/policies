@@ -5,9 +5,9 @@ A primary goal of Miro is to be inclusive to the largest number of participants,
 
 This isn’t an exhaustive list of things that you can’t do. Rather, take it in the spirit in which it’s intended – a guide to make it easier to enrich all of us and the technical communities in which we participate.
 
-This code of conduct outlines our expectations for all those who participate in our Miro developer community, as well as the consequences for unacceptable behavior. Your participation here is also subject to the [Miro Community Guidelines](https://community.miro.com/community-welcome-guide-14/miro-community-guidelines-28) and the [Miro Terms of Use](https://community.miro.com/site/terms).
+This code of conduct outlines our expectations for all those who participate in our Miro platform community, as well as the consequences for unacceptable behavior. Your participation here is also subject to the [Miro Community Guidelines](https://community.miro.com/community-welcome-guide-14/miro-community-guidelines-28) and the [Miro Terms of Use](https://community.miro.com/site/terms).
 
-We invite all those who participate in Miro developer activities to help us create safe and positive experiences for everyone.
+We invite all those who participate in Miro platform activities to help us create safe and positive experiences for everyone.
 
 ## Creating a Welcoming and Inclusive Culture
 Communities mirror the societies in which they exist, and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
